@@ -2,7 +2,7 @@
 
 > **TL;DR**  
 > 1. Save your design in OpenRocket (`Ctrl+S`).  
-> 2. Double‑click **openrocket‑git.bat**.  
+> 2. Double‑click **win_update.bat**.  
 > 3. Type a short description of what you changed and press **Enter**.  
 > 4. You’re done – the new version is backed up for the whole team.
 
@@ -21,7 +21,7 @@
 ## One‑time setup
 
 1. **Install Git for Windows**  
-   <https://gitforwindows.org>  
+   <https://git-scm.com/downloads/win>  
    Accept all defaults.
 
 2. **Clone the repository**  
