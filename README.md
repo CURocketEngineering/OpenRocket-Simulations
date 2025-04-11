@@ -1,7 +1,7 @@
 # OpenRocket + Git (Zero‑Hassle Workflow)
 
 > **TL;DR**  
-> 1. Save your design in OpenRocket (`Ctrl+S`).  
+> 1. Save your design in OpenRocket (`Ctrl+S`). Somewhere inside of the OpenRocket-Simulations folder. 
 > 2. Double‑click **win_update.bat**.  
 > 3. Type a short description of what you changed and press **Enter**.  
 > 4. You’re done – the new version is backed up for the whole team.
@@ -27,4 +27,4 @@
 2. **Clone the repository**  
    *Right‑click → “Git Bash Here”* in the folder where you want the project, then:  
    ```bash
-   git clone https://github.com/YourTeam/RocketDesigns.git
+   git clone https://github.com/CURocketEngineering/OpenRocket-Simulations.git
